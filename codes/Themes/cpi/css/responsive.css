@@ -1,0 +1,331 @@
+@media (max-width: 1174px) {
+
+.sr-mid-container{width:100%;}
+
+}
+
+@media (max-width: 1080px) {
+
+.sr-mid-container{width:96%;} 
+nav .sr-mid-container{width:100%;} 
+nav ul.menu li,
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li,
+#sr-container #headerwrap #megaMenu ul.megaMenu li{ padding-right: 2%; }
+.breadcrumbs{ padding-top: 10px; }
+/*.ind-app-container ul.menu li a{ width: 25%; }
+.ind-app-container .menu ul { left: 27%; }
+.ind-app-menu .ind-app-product { width: 85%; }
+.ind-app-product .ind-app-pro-img img { width: 90%; }*/
+}
+
+@media (max-width: 1060px) {
+.ind-app-container .menu ul ul{ width: 395px; }
+
+
+}
+
+@media (max-width: 1050px) {
+.ind-app-container .menu ul ul{ width: 390px; }
+
+}
+
+@media (max-width: 1040px) {
+.ind-app-container .menu ul ul{ width: 380px; }
+
+
+}
+
+
+@media (max-width: 1024px) {
+
+#sr-mid-box aside .sr-right-panel p { font: 16px/18px "karlaregular"; }
+#secondary .related-product-widgets .products li { float: none; margin: 0 0 10px; text-align: center; width: 100%; }
+.product-widgets .rel-img-div { height: auto; }
+
+.ind-app-container .ind-app-wrapper,
+.ind-app-menu.desktopmenu{ display: none; }
+
+.ind-app-container .ind-app-menu.desktopmenu{ width: 98.3%; }
+.ind-app-container .menu-industry-application-menu-container{ width:100%; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children a{ width: auto; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children li a { width: 95%; }
+.ind-app-container .mobilemenu ul.menu li:hover > ul { display: none; }
+.ind-app-menu.mobilemenu{ display: block; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children a span{ display: none; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children span{ cursor: pointer; position: absolute; right: 15px; top: 0;
+ vertical-align: top; }
+.ind-app-container .mobilemenu ul.menu li { position: relative; width: 100%; }
+.ind-app-container .mobilemenu .menu ul { left: 0; position: relative; width: 100%; min-height: 100%; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children ul li a:hover { background-color: #fcda45; }
+
+.ind-app-container .mobilemenu .menu ul li ul li{ padding-top: 10px; }
+
+
+}
+
+
+@media (max-width: 999px) {
+
+nav ul.menu li,
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li,
+#sr-container #headerwrap #megaMenu ul.megaMenu li{ padding-right: 1%; }
+#sr-mid-box aside .sr-right-panel p { font: 16px/18px "karlaregular"; }
+.widget-area .widgets2 .widget-title{ font-size: 16px; }
+.product-page #primary { width: 72%; }
+.product-page #secondary {width: 25.7%; }
+.product-widgets .red-box{ margin: auto;}
+.blue-section-sidebar .bluesec-whitepaper-text{ padding:5% 4% 0; width: 89%; }
+
+}
+
+@media (max-width: 940px) {
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li a,
+#sr-container #headerwrap #megaMenu ul.megaMenu li a{ font-size: 17px; }
+.ind-app-container{ padding-bottom: 28px; }
+
+}
+
+@media (max-width: 920px) {
+.resize-header header { xbackground: none repeat scroll 0 0 #3088b0; position: relative; z-index: 999999; padding-top: 25px; }
+.sr-logo,
+.resize-header .sr-logo { margin: -5px 0 0; } 
+.resize-header .sr-top-right-info strong,
+.sr-top-right-info strong { text-shadow: 0 0 0 transparent; }
+.resize-header .sr-tagline,
+.sr-tagline{ padding-top: 15px; font: 16px/20px "exobold"; }
+body,
+body.resize-header{ border-top: none; }
+#sr-container .mean-bar{ background-color: #005880; float: none; }
+#sr-container .mean-bar .mean-nav{ float: none; }
+.mean-nav .sr-mid-container{ width: 100%; }
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu{ background: none repeat scroll 0 0 #005880; }
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li {  padding: 0; float: none; position: relative;
+background: none repeat scroll 0 0 #0c1923; }
+#sr-container .mean-nav ul li a,
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li a{ padding: 0.75em 2%; xwidth: 96%; 
+border-top: 1px solid rgba(255, 255, 255, 0.5); }
+#sr-container .mean-nav ul li a:hover,
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li a:hover { background: none repeat scroll 0 0 #fde900; }
+footer aside, #sr-footer-btm-links aside{ width: 21%; }
+#sr-container #headerwrap .mega-menu-wrap label{ float: right; display: block; width: 5%; }
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu li ul.mega-sub-menu .mega-menu-item-type-widget{
+	 background: none repeat scroll 0 0 transparent;}
+nav ul.menu li a, #sr-container #headerwrap .mega-menu-wrap ul.mega-menu li .menu-titles a{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0); color: #7a7a7a; font-family: exo; font-size: 16px;
+    font-weight: normal; text-decoration: underline; text-shadow: none; } 	 
+.blue-section-sidebar .bluesec-whitepaper-text { font:13px/17px "exobold"; }	
+
+.entry-content ul.left_block { float: left; width: 40%; margin-right: 4%; }
+.entry-content ul.right_block { float: left; width: 40%; }
+footer aside.widgets5 { float: left; margin-right: 0; margin-top: 3%; width: 25%; }
+
+}
+
+
+@media (max-width: 890px) {
+.entry-content h1, .site-content h1.page-title{ line-height: 40px; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children li a { width: 94%; }
+footer aside.widgets5 .tipsy-social-icons li { margin: 0 2px; }
+}
+
+
+@media (max-width: 840px) {
+#sr-btm-cnt{ padding-top: 50px; }
+.design-switch a.failing-switch { font-size: 14px; line-height: 16px; }
+.design-switch a.form-fit{ font-size: 13px; line-height: 14px; }
+#sr-container #headerwrap #megaMenu ul.megaMenu li a{ font-size: 15px; }
+.entry-content h1, .site-content h1.page-title{ line-height: 40px; }
+}
+
+@media (max-width: 800px) {
+.widget-area .widgets2 .widget-title { font-size: 14px; line-height: 18px; padding: 5px 0; text-align: center; } 
+.blue-section-sidebar .bluesec-whitepaper-text { font:12px/16px "exobold"; }	
+}
+
+@media (max-width: 788px) {
+.product-page #primary { width: 70%; }
+.product-page #secondary {width: 27%; }
+}
+
+@media (max-width: 775px) {
+.sr-top-right-info strong{ font-size: 22px; }
+.ind-app-container .ind-app-menu.mobilemenu{ width: 98.3%; }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children li a { width: 93%; }
+}
+
+@media (max-width: 768px) {
+.sr-logo { float: none; margin: -7px 0 0; text-align: center; width: 100%; }
+/*.sr-tagline.mobile{ display: block; }*/
+.sr-tagline.desktop{ display: none; }
+.sr-top-right-info{ width: 35%; margin-bottom: 15px; }
+.sr-logo, .resize-header .sr-logo{ margin-left:0; }
+.resize-header .sr-tagline.mobile,
+.resize-header .sr-top-right-info { display: none; }
+.resize-header .sr-logo img { width: 35%; }
+.sr-logo, .resize-header .sr-logo { margin-left: 0; margin-top: -6px; text-align: center; width: 100%; }
+#sr-container #headerwrap #megaMenu ul.megaMenu li{ width: 99%; }
+#sr-container #headerwrap #megaMenu ul.megaMenu > li.mega-with-sub > ul.sub-menu{ width: 98.5%; }
+#sr-container #headerwrap #megaMenu ul.megaMenu .contmenu{ width: 70%; }
+#sr-container #headerwrap #megaMenu ul.megaMenu li .menu-titles a{ font-size: 14px; }
+
+#headerwrap #megaMenu #megaMenuToggle { color: #fff; font-size: 13px; font-weight: bold; letter-spacing: 1px;
+ text-transform: capitalize; }
+ 
+.product-page #primary { width: 100%; float: none; margin-bottom: 15px; }
+.product-page #secondary {width: 100%; float: none; text-align: center; }
+
+.woocommerce .product-page #content div.product div.images{ float: left; width: 50%; }
+#secondary .related-product-widgets .products li {  float: left; margin: 0 0 10px; text-align: center; width: 33%; }
+.product-widgets .rel-img-div { height: auto; }
+.ind-app-container ul.menu li a{ font-size: 13px; text-transform: capitalize; }
+.entry-content ul.left_block { float: none; width: 100%; margin-right: 0; margin-bottom: 0; }
+.entry-content ul.right_block { float: none; width: 100%; }
+}
+
+@media (max-width: 767px) {
+.blue-section .pro-tabs { float: none; width: 100%; }	
+.blue-section .blue-section-sidebar{ display: none; }
+.blue-section{ padding-bottom: 2.5% }
+table#desktop{ display: none; }
+
+}
+
+@media (max-width: 660px) {
+.sr-left-panel { float: none; width: 100%; }
+.sr-right-panel { float: none; padding: 10px 2% 2%; width: 96%; } 
+}
+
+
+
+
+@media (max-width: 643px) {
+#sr-banner .meteor-slides .meteor-buttons{ display: none; } 
+.woocommerce .product-page #content div.product div.images{ float: none; width: 100%; }
+.woocommerce .product-page .product .bullet_list { float: none; width: 100%; }
+.appimge a.applinks { font-size: 14px; line-height: 18px;  }
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children li a { width: 92%; }
+
+}
+
+@media (max-width: 600px) {
+.sr-tagline.mobile { float: none; text-align: center; width: 100%; } 
+.sr-top-right-info { float: none; padding-bottom: 15px; margin-bottom: 0; text-align: center; width: 100%; }
+.sr-top-right-info a.top-btn,
+.resize-header .sr-top-right-info a.top-btn { float: none; margin: 5px 0 10px;  padding: 4px 1.5%;
+    text-align: center;  width: 97%; }
+
+.resize-header .sr-top-right-info a.top-btn:hover{ background: none repeat scroll 0 0 #fde900; }
+
+.sr-top-right-info .tipsy-social-icons li {  display: inline; float: none; }
+.sr-top-right-info .tipsy-social-icon-container{ float: none; padding-bottom: 10px; }
+.sr-top-right-info .textwidget strong,
+.resize-header .sr-top-right-info .textwidget strong { text-align: center; }
+.resize-header .sr-top-right-info a.top-btn{ color: #000; }
+#searchform { float: none; margin: 10px auto 0; width: 180px; }
+input#s { width: 125px; }
+.whitepapers .whitepaper-text{ width: 94%; }
+.whitepapers .download-link { float: none; margin: 25px auto 0; padding-bottom: 15px; text-align: left; width: 62%; }
+#sr-btm-cnt{ padding-top: 2.5%; }
+#sr-btm-cnt aside {  float: none; padding: 5%; width: 90%; }
+footer aside, #sr-footer-btm-links aside { float: none; padding: 0; text-align: center; width: 100%; margin-bottom: 3%; }
+footer aside strong{ padding-bottom: 10px; }
+footer aside img{ margin: auto; }
+.footer-blog { margin: auto; text-align: left; width: 55%; }
+#sr-footer-btm-links aside.last { text-align: center; }
+
+.resize-header .sr-tagline.mobile,
+.resize-header .sr-top-right-info { display: block; }
+#primary { float: none; margin: auto; width: 95%; }
+#secondary { float: none; text-align: center; width: 100%; margin-bottom: 10%; }
+#secondary .widget img { width: 50%; }
+.widget-area .widgets2 .textwidget .applications .app-title { font-size: 22px; line-height: 30px; }
+.widget-area .widgets2 .widget-title { font-size: 36px; line-height: 40px; padding: 10px 0; }
+.design-switch { margin: auto; position: relative; width: 50%; }
+#secondary .widget .design-switch img { width: 100%; }
+.design-switch a.failing-switch { font-size: 29px; line-height: 32px; }
+.design-switch a.form-fit { font-size: 24px; line-height: 27px; }
+.entry-content ul{ padding-left: 5px;  }
+.sidebar-menu ul { text-align: left; }
+#sr-container #headerwrap #megaMenu ul.megaMenu .ss-sidebar{  float: none; margin-bottom: 0; margin-top: 0; padding-bottom: 0;
+ padding-top: 0; width: 100%; display: block; }
+#sr-container #headerwrap #megaMenu ul.megaMenu .ss-sidebar:first-child{ border-right: medium none;	}
+
+.form-left { float: none; padding: 0 1%; text-align: left; width: 95%; }
+.form-right { float: none; width: 95%; }
+.form-right .text { width: 100%; }
+.form-wrap { margin: 5px 0; padding: 0 10px; }
+
+.post .post-thumbnail { background: none repeat scroll 0 0 transparent; border: 2px solid #cfcfcf; display: block;
+    float: none; margin: 0 auto 10px; padding: 2px; text-align: center; width: 95%; }
+
+
+footer ul.footer-blog img { float: none; margin-bottom: 10px; padding: 0; width: 100%; }
+.form-sbmt,
+.form-sbmt.rqst,
+.form-sbmt.askq { text-align: center;  width: 100%; }
+
+.form-wrap .form-sbmt .wpcf7-submit { width: 100%; }
+footer aside.widgets5 { float: right; width: 60%; }
+}
+
+@media (max-width: 520px) {
+#secondary .related-product-widgets .products li { width: 50%; }
+.product-widgets .rel-img-div { height: 135px; }
+
+}
+
+@media (max-width: 480px) {
+.footer-blog{ width: 75%; }
+.resize-header .sr-logo{ margin-top: -5px; }
+.resize-header .sr-logo img{ height: 100px; }
+#sr-container #headerwrap .mega-menu-wrap ul.mega-menu > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item {
+    float: none; width: 100% !important; }
+.design-switch{ width: 100%; }
+.design-switch a.failing-switch { font-size: 50px; line-height: 56px; }	
+.design-switch a.form-fit { font-size: 40px; line-height: 43px; }
+.woocommerce .product-page .product .bullet_list { float: right; width: 100%; }
+
+.entry-content .pro-wrapper img.alignleft{ display: block; float: none; margin-left: auto; margin-right: auto; text-align: center; width: 60%;}
+.ind-app-container .mobilemenu ul.menu li.menu-item-has-children li a { width: 90%; }
+footer aside.widgets5 { width: 65%; }
+}
+
+@media (max-width: 400px) {
+#sr-mid-box strong{ font: 21px/25px "exobold"; }
+#sr-mid-box aside span {  background: url("../images/yallow-bar-bg.png") no-repeat scroll left center / 100% 100% rgba(0, 0, 0, 0);
+    font: 20px/24px "exomedium"; left: -4px; padding: 25px 0 25px 5%; text-align: left; top: -4px; width: 95%; }
+
+.entry-content h1 { font-size: 27px; line-height: 29px; margin-bottom: 5px; padding-bottom: 5px; }
+.entry-content p{ margin-bottom: 5%; }
+#secondary .widget img { width: 90%; }
+.widget-area .widgets2 .widget-title { font-size: 28px; line-height: 32px; }
+.design-switch a.failing-switch { font-size: 29px; line-height: 32px; }
+.design-switch a.form-fit { font-size: 24px; line-height: 27px; }
+
+.appimge a.applinks { float: none; font-size: 18px; line-height: 20px; text-align: center; width: 90%; display: block; }
+.appimge .applinks img{ margin-bottom: 15px; }
+.appimge a.appmidlink{ margin: 2% 0; }
+footer aside.widgets5 { width: 70%; }
+
+}
+
+@media (max-width: 360px) {
+#sr-announcement ul li span{ font-size: 18px; } 
+.footer-blog{ width: 90%; }
+.breadcrumbs { padding: 10px 10px 0; }
+#secondary .related-product-widgets .products li {  float: none; margin: 0 0 10px; text-align: center; width: 100%; }
+.product-widgets .rel-img-div { height: auto; }
+footer aside.widgets5 { width: 72%; }
+.white-section .white_left { float: none; width: 100%; margin-right: 0; margin-bottom: 15px; }
+.white-section .white_right { float: none; width: 100%; }
+}
+
+@media (max-width: 320px) {
+footer aside.widgets5 { width: 75%; } 
+}
+
+@media (max-width: 240px) {
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+}
